@@ -1,0 +1,271 @@
+code,description
+001AD,DAMAGED CONTAINER
+001AIS,Additional Import Service
+001CC,Cabotage Charges
+001CCF,Customs Service Fee
+001CHC,Crane Hire Charges
+001COO,Courier fees
+001DOA,Department Of Agriculture
+001DTC,Detention Charges
+001EDO,Empty Drop Off
+001ERF,Elect Release Fee
+001ES,EXPORT SERENITY
+001FA,Facility fee
+001LB,Late Bill Collection Fee
+001LD,Liner Demurrage
+001LF,Legal Fee
+001NU,Navis Update
+001OSC,Overstay Charges
+001PEN,PENALTY
+001PO,Positive offset
+001RO,ROAD
+001SMAF,Security Manifest Amendment Fee
+001STD,STEVEDORING BULK
+001VPS,Value Protect Starter
+00ENO,ECA NE OUTPORT
+00MHH,M/HAUL HANDOVER
+00SPG,SEAPRIORITY GO
+00SWB,Seaway Bill
+A001,Admin Fee
+AA001,Aquapy Application
+AC01,Additional Costs
+ADES01,Acotamento/Desempacotamento
+AESVS01,Additional Export Service
+AF01,Agency Fees
+AF02,Amendment Fee
+AGF001,Agriculture fees
+AMS001,Advance Manifest Submission
+ARM001,Armed Escort
+B001,Bond Fee
+BAF001,Bunker Adjustment Factor
+BAN001,Bank Charges
+BBD001,BBD Supervision
+BC01,Border Clearances
+BCRS01,Bunker Cost Recovery Surcharge
+BEE001,Beetle Traps
+BF01,BILL FEE
+BIOS01,BIOSAFETY CHARGE
+BL01,Bills of Lading
+BLRF01,Bill Of Lading Release Fee
+BUNC01,Bunker Contribution
+CAI001,CAIC
+CAR001,Cargo Dues
+CAR002,Cartage
+CASSH01,Casuals sheeting
+CC01,Customs Clearance
+CCC01,Container Compliance Charge
+CCF001,CONTAINER CONTROL FEE
+CCO001,Container Commission
+CD01,Custom Documents
+CDD001,Cargo Data Declaration
+CE001,Collect Elsewhere
+CERT01,Certificate
+CF001,Corrector Fees
+CHA001,Chassis Usage Charge
+CHA002,Change of port
+CHM01,Cross Haul MT
+CJT,Cross Joburg Transport
+CLE001,Cleaning Fee
+CLEAR01,CLEARANCE
+CMA001,CMA Export Service
+CMF001,Container Management Fee
+CMR01,CMR
+CNTM01,CNTR MAINTENANCE CHARGE
+COD01,Change of Destination fees
+COEX01,CUSTOM OPERATION EXPORT
+CON001,Container Mesh
+CON002,Congestion Surcharge
+CON01,Container Service Charges
+CON01,CNTNR SVC CHARGE
+COO01,Certificate of Origin
+CORN002,Cornelder - weigh bridge
+CORN01,Cornelder - Wharfage
+CR01,Container Release Fee
+CROSS01,Crosshaul CDP-GIM
+CS001,Cornelder-Storage (Exports)
+CSC01,Container Service Charge
+CSC01,CSC
+CT01,CONTAINERTRUCKING
+CUF001,CONTAINER UPGRADE FEE
+CUS001,Customs Advanced Information
+CUS002,Customs Stop
+CUS003,Customs Fine
+CUSEXD01,Customs & Excise Duty
+CUVAT01,Customs VAT
+CVS001,Cargo Value Serenity
+CYF01,Container Yard Fees
+DCT001,DCT POINT
+DEG001,Degroup/Release
+DEM01,Demurrage
+DESTF01,Destination Charge
+DIS001,Disbursement Fee
+DIV001,Diversion Fee
+DOC01,Documentation Fees
+DOF,Delivery Order Fee
+DON001,DONATIONS
+DRO01,DRO Durban
+EBF001,EMERGENCY BUNKER FEE
+ECA001,ECA Reg Surcharge
+EDI01,EDI Fee
+EDIF01,Electronic Data Fee
+EDS001,Export Declaration Surcharge
+EDS002,Export Declaration Surcharge
+EES01,EU ETS SURCHARGE
+EFEE01,Eir Fee
+EFF01,Environmental Fuel Fee
+EFS001,Emergency Fuel Surcharge
+EH001,Empty Handling Port
+ELF01,Empty Lift Fee
+ELO01,Empty Lift On/Off
+EMI001,Emissions Control
+ENT001,Entry Summary Declaration
+EPC001,Empty pickup charge
+EQU001,Equipment Imbalance Surcharge
+EQUIPS01,Equipment Positioning Service
+ERF001,Express Release Fees
+ERS01,Emergency Risk Surcharge
+ESC001,Escort Service Tracking Units
+ESC01,CUSTOMS ESCORT
+ETS01,Emission Trading System
+EXP01,Export Documentation
+EXT001,Extra Risk Insurance Surcharge
+EXT002,Extra Lines
+F0001,Fine
+FAL,FREIGHT AND LANDING
+FE001,Freetime Extension
+FEE001,Feeder Freight
+FES01,Fuel And Energy Surcharge
+FGU001,Food grade upgrade
+FI001,File Fee
+FLO01,Full Lift On/Off
+FN001,Fuel Neutrality
+FOB,FOB COST
+FRE001,Freight Collection Fee
+FRE002,Freight Differential
+FTO001,FTO Cancellation Fee
+FUE001,Fuel Escalation Surcharge
+FUM001,Fumigation
+GAT001,Gate Fees
+GIM001,GIM Inspection
+HAD01,Harbor Dues
+HAN001,Handling Fee
+I001,Insurance
+ILH001,Inland Haulage (Destination Frt)
+IMB001,Imbalance Surcharge
+IMP001,IMPORT FEE
+IMP002,Imports Commission
+INFEE001,Inland Inspection Fee
+ISPF01,International Ship & Port Facility
+ISSS01,INDIAN STATUTORY SERVICE TAX
+JHBDOC,Johannesburg Documentation
+LA002,Labelling
+LAB001,Labels
+LAB002,Labour Charges
+LAN001,Landside Charge
+LASH01,LASHING
+LAT001,LATE ARRIVALS
+LCM01,LCM Charged
+LDE,Leo Detention/Exam
+LDT001,Long Distance Trucking
+LEO001,Leo Scheduled Charges
+LEO002,Leo Margin
+LIFT01,Lifts - container
+LIN001,Lines Charges
+LOG001,Logistics Fee
+LOLO01,LO/LO
+LON001,Long Distance Trucking
+LSS001,Low Sulphur Surcharge
+LTL01,Local Transport Loading
+LTPT01,Local Transport
+MAR001,Maritime Security Levy
+MCF01,Manifest Corrector Fee
+MCN001,MC Net
+MER001,Merchant Haulage
+MIF01,Musina Import Fee
+MISC01,MISC FINANCE
+MPF,MPR Manifest
+NAF01,Navis Amendment Fee
+OAAC01,OUR ASSISTANCE & COORDINATION
+OF01,Ocean Freight
+OFFR01,Offloaded & Reloaded of boxes
+ONC001,Oncarriage
+OP001,Operational. CR
+ORT01,Outer Removal For Tracker
+PCS001,Premium Customer Service
+PD001,Port Dues
+PEAK01,Peak Season Surcharge
+PHC01,Port Health Charges
+PI001,Plant Inspector
+PIC001,Pick Up Charge
+PIR001,Piracy Risk Surcharge
+PLC001,PLASTIC LINERS FOR CNTRS
+POLICY01,Policy Instructions
+PQC001,Premium Quality Container
+PR001,PRINTING FEE
+PRO001,Provisional Payments
+PSF01,Port Storage Full
+PSR001,Port Secure Release fee
+PT001,PACKAGING TAPE
+RC001,Re-Cartoning
+RE001,Renomination Fee
+REC001,Recoveries
+RECHAN01,Recovery for Handling - Import
+REE001,RELEASE
+RES001,Restrapping
+REV001,Revenue Manual
+RIG001,Reimbursement-India GST
+RIT01,RIT WE WH Documentation Fee
+ROA001,Roadfreight RSA
+ROA002,Roadfreight Zimbabwe
+RODF01,ROADBOND FEE
+S001,Shore Handling
+SAR001,SARS Inspection
+SBS001,South bound sales
+SC01,Security Surcharge
+SCAN01,Scanner
+SCC001,Sensitive Cargo Contribution
+SCC01,Sensitive Cargo Contribution
+SCT01,SUEZ CANAL TRANSIT
+SEAL01,Seal
+SERV01,Service Fee
+SH001,SHUNT CHARGE
+SMD01,Security Manifest Documentation Fee
+SOL001,Solas
+SPCF001,Spot Booking Cancellation Fee
+ST01,Standing Time Charge
+STA001,Stack Monitoring
+STOR01,Storage
+STRIP01,Strip
+STU001,stuffing/stripping
+SU001,SUNDRY
+SUP001,Supplementary
+SUP01,Supervision
+TAL001,Tally Work
+TAX001,TAX
+TEL001,Telex Release
+TER001,Terminal Advice Fee
+THC01,Terminal Handling Charge
+THC01,THC
+TPT01,Transport - land
+TPT02,Transport- Border Fee
+TRA001,Tracking Devices
+TRE001,Tremcards (Hazardous Card)
+TREX01,Transit Export
+TRF01,Telegraphic Release Fee
+TSC01,Terminal Security Charge
+TSF001,Transnet Stabilization fee
+TURN01,Turn In Fee
+UNP001,Unpack
+VAC,Vessel Age Certificate
+VGM01,VGM - Weighbridge
+VGM02,VGM INSERTING
+VOC001,VOC
+W001,Weighbridge
+WHA001,Wharfage
+WRS001,War Risk Subcharge
+XHAUL01,XHaulage Full
+XIB01,Bond
+XRW01,Warehouse
+ZBR001,ZIM BORDER REC
+ZIM001,Zim Pack
+ZLT001,ZLT CHINA TOBACCO
